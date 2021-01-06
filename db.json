@@ -1,0 +1,71 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed hard drive on workstation 005 by prem",
+      "attention": false,
+      "tech": "Mike Mathev",
+      "date": "2021-01-05T16:40:07.163Z"
+    },
+    {
+      "id": 2,
+      "message": " hard drive on workstation 005 is not working",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "Mike Mathev"
+    },
+    {
+      "id": 3,
+      "message": "Server 112 is Down",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 4,
+      "message": "Server 112 is Up and running",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 10
+    },
+    {
+      "message": "changed hard drive on workstation 005",
+      "attention": true,
+      "tech": "Jon Doe",
+      "date": "03-02-2019",
+      "id": 12
+    },
+    {
+      "message": "testing by mokashe",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-01-05T16:39:06.389Z",
+      "id": 14
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "rose",
+      "lastName": "marri",
+      "id": 4
+    }
+  ]
+}
